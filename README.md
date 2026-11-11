@@ -1,9 +1,12 @@
 # Hi there, I'm  Katawut Saingkaew <span type="placeholder" placeholder-type="person"></span> 👋
 ### 👨‍💻 About Me
+I'm a curious learner who enjoys exploring technology, solving problems, and turning ideas into practical projects. I'm always excited to learn new things and improve my skills step by step.
 - 🎓 Computer Science Student at **University of Phayao**
 - 💻 Interested in **Web Development and UX/UI Design**
-- 🌱 Currently learning **Java, Python, HTML, CSS, t**
+- 🌱 Currently learning **Java, Python, HTML, CSS
 - 🎨 Current Goal : Learning Full-Stack Development.
+
+  
 
 ---
 ### 🛠️ Tech Stack & Tools
